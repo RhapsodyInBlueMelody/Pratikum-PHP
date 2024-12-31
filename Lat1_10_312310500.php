@@ -10,7 +10,7 @@ echo "<br>";
 for ($i=0; $i < sizeof($transportasi); $i++){
 	echo "$transportasi[$i] ";
 }
-/*
+
 echo "<br>";
 	asort($transportasi);
 for ($i=0; $i < sizeof($transportasi); $i++){
@@ -36,5 +36,4 @@ echo "<br>";
 for ($i=0; $i < sizeof($transportasi); $i++){
 	echo "$transportasi[$i] ";
 }
- */
 ?>
